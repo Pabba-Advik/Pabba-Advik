@@ -1,13 +1,4 @@
 # Pabba-Advik
-
-> Recruiter-friendly proof and contact path.
-
-**Theme:** Neon · **Style:** Minimal · **Agent:** Full-Stack Engineer
-
-## Header
-Hi, I'm **Pabba-Advik**. This README is tuned for **get hired** with a Neon visual system.
-## About Me
-Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Pabba-Advik&theme=neon&mode=light" />
